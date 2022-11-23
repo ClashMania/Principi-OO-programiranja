@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\bin\Debug\Principi OO programiranja.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\bin\Debug\Principi OO programiranja.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\bin\Debug\Principi OO programiranja.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\obj\Debug\Principi OO programiranja.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\obj\Debug\Principi OO programiranja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\obj\Debug\Principi OO programiranja.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\obj\Debug\Principi OO programiranja.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Principi OO programiranja\obj\Debug\Principi OO programiranja.pdb
